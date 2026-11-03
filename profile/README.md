@@ -2,7 +2,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tiny-Melo/.github/main/profile/assets/wordmark-reverse.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tiny-Melo/.github/main/profile/assets/wordmark-brand.svg">
-  <img src="https://raw.githubusercontent.com/Tiny-Melo/.github/main/profile/assets/wordmark-brand.svg" width="400" alt="Tiny Melo">
+  <img src="https://raw.githubusercontent.com/Tiny-Melo/.github/main/profile/assets/wordmark-brand.svg" width="800" alt="Tiny Melo">
 </picture>
 </p>
 

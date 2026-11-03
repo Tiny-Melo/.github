@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="540" viewBox="0 0 1440 540" role="img">
+<rect width="1440" height="540" rx="8" fill="#F7F4EC"/>
+<style>.title{font-family:Georgia,'Times New Roman',serif;font-size:136px;letter-spacing:-6px;fill:#232821}.meta{font-family:Arial,Helvetica,sans-serif;font-size:19px;letter-spacing:2px;fill:#626A60}</style>
+<title>Melo TV — Press play.</title>
+<text x="72" y="82" class="meta">MELO TV</text>
+<text x="65" y="252" class="title">Press</text>
+<text x="65" y="389" class="title">play<tspan fill="#C99643">.</tspan></text>
+<text x="72" y="484" class="meta">YOUR SERVER. YOUR SCREEN.</text>
+<svg x="865" y="110" xmlns="http://www.w3.org/2000/svg" viewBox="181 208 662 589" width="390" height="347">
+  <path fill="#202126" d="M372 734H652C652 741 665 745 678 752C687 758 692 768 692 779C692 790 686 797 675 797H349C338 797 332 790 334 779C336 763 345 754 357 749C368 744 372 740 372 734Z"/>
+  <rect x="181" y="208" width="662" height="534" rx="91" fill="#1c1d22" stroke="#2d2f36" stroke-width="10"/>
+  <path fill="#f2f0ea" d="M433 379C433 361 450 351 465 361L626 469C639 478 639 491 626 500L465 605C450 615 433 605 433 587Z"/>
+  <rect x="474" y="683" width="76" height="18" rx="9" fill="#2997ff"/>
+</svg>
+</svg>

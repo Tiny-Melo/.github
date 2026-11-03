@@ -1,147 +1,47 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tiny-Melo/.github/main/profile/assets/banner-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tiny-Melo/.github/main/profile/assets/banner-light.png">
-    <img alt="Tiny Melo — Little tools. A lot of heart." src="https://raw.githubusercontent.com/Tiny-Melo/.github/main/profile/assets/banner-light.png" width="100%">
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tiny-Melo/.github/main/profile/assets/editorial/wordmark-reverse.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tiny-Melo/.github/main/profile/assets/editorial/wordmark-brand.svg">
+  <img src="https://raw.githubusercontent.com/Tiny-Melo/.github/main/profile/assets/editorial/wordmark-brand.svg" width="400" alt="Tiny Melo">
+</picture>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Tiny-Melo"><img src="https://img.shields.io/badge/Studio-Independent-C99643?style=for-the-badge&logoColor=white" alt="Independent Studio"></a>
-  <a href="https://github.com/ChrisRodStar/zipmelo"><img src="https://img.shields.io/badge/Swift-6.0-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift 6.0"></a>
-  <a href="https://github.com/Tiny-Melo"><img src="https://img.shields.io/badge/Platforms-macOS%20%7C%20iOS-232821?style=for-the-badge&logo=apple&logoColor=white" alt="Platforms"></a>
-  <a href="https://buymeacoffee.com/chrissinclair"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-F5C77E?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"></a>
-</p>
+### Little tools. A lot of heart.
 
-<h3 align="center"><i>Little tools. A lot of heart.</i></h3>
+Independent apps and tools by [Christopher](https://github.com/ChrisRodStar). A place for the things I build, from watching movies to reading comics.
 
-<p align="center">
-  A home for thoughtful apps, useful tools, and the occasional rabbit hole.<br />
-  Built with care by <b>Christopher</b>, approved by <b>Melo</b> the golden retriever.
-</p>
+<br>
 
----
+## Melo TV
 
-### ✨ Featured Projects
+**Movies and TV from your own server.**
 
-<table>
-  <tr>
-    <td width="120" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/Tiny-Melo/.github/main/profile/assets/zipmello.png" width="88" alt="ZipMello">
-    </td>
-    <td>
-      <h4><a href="https://github.com/ChrisRodStar/zipmelo">ZipMello</a> &nbsp;<code>Open Source</code> <code>Swift 6</code></h4>
-      <p><b>A high-performance ZIP and CBZ engine built around comic and manga reading patterns.</b></p>
-      <ul>
-        <li><b>Seek-Lock-Free Positional Reads</b>: Independent <code>pread</code> calls enable non-blocking background page prefetching.</li>
-        <li><b>55× Faster Path Lookups</b>: Average <i>O</i>(1) path and alias indexing with zero linear scans.</li>
-        <li><b>Bounded Page Leasing</b>: Reference-counted <code>ArchivePageStore</code> with disk budgets and LRU cache eviction.</li>
-        <li><b>Zero-Disk Streaming &amp; CLI</b>: Decompresses directly from in-memory network buffers, plus a universal macOS CLI.</li>
-      </ul>
-      <p>
-        <a href="https://github.com/ChrisRodStar/zipmelo"><b>View Repository →</b></a> &nbsp;|&nbsp;
-        <a href="https://github.com/ChrisRodStar/zipmelo/releases"><b>Releases</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="120" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/Tiny-Melo/.github/main/profile/assets/mello-tv.png" width="88" alt="Mello TV">
-    </td>
-    <td>
-      <h4><a href="https://github.com/ChrisRodStar/Mello-Tv">Mello TV</a> &nbsp;<code>Self-Hosted</code> <code>App Suite</code></h4>
-      <p><b>A clean, ad-free streaming server and client suite for movies and TV shows.</b></p>
-      <ul>
-        <li><b>Distraction-Free</b>: Built to replace ad-heavy, pop-up-filled streaming sites with a calm, beautiful player.</li>
-        <li><b>Multi-Platform Suite</b>: Native Mac app, sideloadable iOS client, and responsive web browser player.</li>
-        <li><b>One-Command Docker Setup</b>: Deploy effortlessly with Docker Compose; keeps watch history and profiles persistent.</li>
-        <li><b>Rich Metadata</b>: Automatic metadata, episode guides, and poster artwork powered by TMDB.</li>
-      </ul>
-      <p>
-        <a href="https://github.com/ChrisRodStar/Mello-Tv"><b>View Repository →</b></a> &nbsp;|&nbsp;
-        <a href="https://github.com/ChrisRodStar/Mello-Tv/releases"><b>Releases</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/ChrisRodStar/Mello-Tv"><img src="https://raw.githubusercontent.com/Tiny-Melo/.github/main/profile/assets/editorial/melo-tv.svg" width="100%" alt="Melo TV — Press play. The Melo TV screen icon on Tiny Melo’s cream background."></a>
+
+Run the server on your Mac or with Docker. Watch on your Mac, iPhone, or in your browser. Built because picking something to watch shouldn't mean fighting popups and fake play buttons.
+
+**[Explore Melo TV →](https://github.com/ChrisRodStar/Mello-Tv)** &nbsp; · &nbsp; [Downloads](https://github.com/ChrisRodStar/Mello-Tv/releases)
+
+<br>
+
+## ZipMelo
+
+**The archive engine behind a better reading experience.**
+
+<a href="https://github.com/ChrisRodStar/zipmello"><img src="https://raw.githubusercontent.com/Tiny-Melo/.github/main/profile/assets/editorial/zipmelo.svg" width="100%" alt="ZipMelo — Next page. The golden retriever illustration used by ZipMelo."></a>
+
+A Swift 6 ZIP and CBZ library built for comic and manga readers. Natural page ordering, concurrent archive reads, and ComicInfo metadata, with a macOS command-line tool for working with archives directly.
+
+**[Explore ZipMelo →](https://github.com/ChrisRodStar/zipmello)** &nbsp; · &nbsp; [Releases](https://github.com/ChrisRodStar/zipmello/releases)
+
+<br>
 
 ---
 
-### 🛠️ From the Workbench
+<img src="https://raw.githubusercontent.com/Tiny-Melo/.github/main/profile/assets/editorial/melo.svg" width="112" alt="The curled-up golden retriever from Tiny Melo's branding.">
 
-Projects currently brewing, in active development, or in public beta:
+**Small software. Made with care.**
 
-<table>
-  <tr>
-    <td width="100" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/Tiny-Melo/.github/main/profile/assets/brewpulse.png" width="72" alt="BrewPulse">
-    </td>
-    <td>
-      <b>BrewPulse</b> &nbsp;<code>Public Beta</code> <code>macOS</code><br>
-      A lightweight native menu bar app for tracking Homebrew updates without living in the Terminal. Shows outdated formulae and casks, letting you review the exact command before it runs.<br>
-      <a href="https://github.com/ChrisRodStar/BrewPulse"><b>View Source →</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="100" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/Tiny-Melo/.github/main/profile/assets/melloku.png" width="72" alt="Melloku">
-    </td>
-    <td>
-      <b>Melloku</b> &nbsp;<code>In Development</code> <code>iOS &amp; macOS</code><br>
-      Your manga. Your pace. A native Apple-first manga and comics reader designed around a comfortable reading library, reading history, and high-speed chapter transitions (powered by ZipMello).
-    </td>
-  </tr>
-  <tr>
-    <td width="100" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/Tiny-Melo/.github/main/profile/assets/speakmelo.png" width="72" alt="Speakmelo">
-    </td>
-    <td>
-      <b>Speakmelo</b> &nbsp;<code>In Development</code> <code>macOS</code><br>
-      From a thought to a sentence. Native, private on-device dictation for your Mac featuring a global recording overlay, custom vocabulary, and instant text delivery to any active application.
-    </td>
-  </tr>
-  <tr>
-    <td width="100" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/Tiny-Melo/.github/main/profile/assets/dog-coral.png" width="72" alt="Tiny Melo Showcase">
-    </td>
-    <td>
-      <b>Tiny Melo Showcase</b> &nbsp;<code>Open Source</code> <code>Astro &amp; Bun</code><br>
-      The personal showcase website for Tiny Melo's apps, tools, and branding system, built with Astro, Bun, and GSAP motion.<br>
-      <a href="https://github.com/Tiny-Melo/tiny-melo"><b>View Website Repo →</b></a>
-    </td>
-  </tr>
-</table>
+Tiny Melo is named after my golden retriever, Melo. I write the software. He keeps me company.
 
----
-
-### 🐾 Studio Philosophy
-
-- **Native & Purpose-Built**: Tailored for Apple platforms. We build with modern Swift, strict concurrency, and native frameworks rather than sluggish cross-platform wrappers.
-- **Under the Hood Quality**: Thoughtful, quiet interfaces backed by serious performance engineering—whether that's lock-free positional I/O, bounded memory budgets, or zero-copy streaming.
-- **Honest Software**: No deceptive dark patterns, no unsolicited analytics, and no bloat. Just software that does what it says on the tin.
-
----
-
-### 🐶 The Team
-
-<table>
-  <tr>
-    <td width="80" align="center">
-      <img src="https://raw.githubusercontent.com/Tiny-Melo/.github/main/profile/assets/melo.jpg" width="68" style="border-radius: 50%;" alt="Melo">
-    </td>
-    <td>
-      <b>Christopher</b> — <i>Human / Engineering &amp; Design</i><br>
-      Architecting native Apple apps, developer libraries, and small experiments.<br><br>
-      <b>Melo</b> — <i>Golden Retriever / Head of Taking It Easy</i><br>
-      The namesake behind the studio. Supplies the laid-back energy, moral support, and quality assurance naps.
-    </td>
-  </tr>
-</table>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tiny-Melo/.github/main/profile/assets/dog-coral.png" width="36" alt="Melo"><br>
-  <sub>Crafted with care by Christopher &amp; Melo.</sub><br>
-  <sub><a href="https://github.com/Tiny-Melo">Tiny Melo</a> • <a href="https://github.com/ChrisRodStar">@ChrisRodStar</a> • <a href="https://buymeacoffee.com/chrissinclair">Buy Me a Coffee</a></sub>
-</p>
+[Christopher](https://github.com/ChrisRodStar) &nbsp; / &nbsp; [Support my work](https://buymeacoffee.com/chrissinclair)

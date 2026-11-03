@@ -21,7 +21,6 @@
 
 ---
 
-## Projects
 
 ### Melo TV
 

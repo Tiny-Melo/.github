@@ -22,7 +22,7 @@
 ---
 
 
-### Melo TV - **Movies and TV from your own server.**
+### Melo TV - <sub>Movies and TV from your own server.</sub>
 
 <a href="https://github.com/ChrisRodStar/Mello-Tv"><img src="https://raw.githubusercontent.com/Tiny-Melo/.github/main/profile/assets/melo-tv.svg" width="100%" alt="Melo TV — Press play. The Melo TV screen icon on Tiny Melo’s cream background."></a>
 

@@ -22,9 +22,7 @@
 ---
 
 
-### Melo TV
-
-**Movies and TV from your own server.**
+### Melo TV --- **Movies and TV from your own server.**
 
 <a href="https://github.com/ChrisRodStar/Mello-Tv"><img src="https://raw.githubusercontent.com/Tiny-Melo/.github/main/profile/assets/melo-tv.svg" width="100%" alt="Melo TV — Press play. The Melo TV screen icon on Tiny Melo’s cream background."></a>
 
@@ -34,9 +32,7 @@ Run the server on your Mac or with Docker. Watch on your Mac, iPhone, or in your
 
 <br>
 
-### ZipMelo
-
-**The archive engine behind a better reading experience.**
+### ZipMelo --- **The archive engine behind a better reading experience.**
 
 <a href="https://github.com/ChrisRodStar/zipmello"><img src="https://raw.githubusercontent.com/Tiny-Melo/.github/main/profile/assets/zipmelo.svg" width="100%" alt="ZipMelo — Next page. The golden retriever illustration used by ZipMelo."></a>
 

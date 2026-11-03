@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.png">
-    <img alt="Tiny Melo — Little tools. A lot of heart." src="assets/banner-light.png" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tiny-Melo/.github/main/profile/assets/banner-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tiny-Melo/.github/main/profile/assets/banner-light.png">
+    <img alt="Tiny Melo — Little tools. A lot of heart." src="https://raw.githubusercontent.com/Tiny-Melo/.github/main/profile/assets/banner-light.png" width="100%">
   </picture>
 </p>
 
@@ -27,7 +27,7 @@
 <table>
   <tr>
     <td width="120" align="center" valign="middle">
-      <img src="assets/zipmello.png" width="88" alt="ZipMello">
+      <img src="https://raw.githubusercontent.com/Tiny-Melo/.github/main/profile/assets/zipmello.png" width="88" alt="ZipMello">
     </td>
     <td>
       <h4><a href="https://github.com/ChrisRodStar/zipmelo">ZipMello</a> &nbsp;<code>Open Source</code> <code>Swift 6</code></h4>
@@ -46,7 +46,7 @@
   </tr>
   <tr>
     <td width="120" align="center" valign="middle">
-      <img src="assets/mello-tv.png" width="88" alt="Mello TV">
+      <img src="https://raw.githubusercontent.com/Tiny-Melo/.github/main/profile/assets/mello-tv.png" width="88" alt="Mello TV">
     </td>
     <td>
       <h4><a href="https://github.com/ChrisRodStar/Mello-Tv">Mello TV</a> &nbsp;<code>Self-Hosted</code> <code>App Suite</code></h4>
@@ -74,7 +74,7 @@ Projects currently brewing, in active development, or in public beta:
 <table>
   <tr>
     <td width="100" align="center" valign="middle">
-      <img src="assets/brewpulse.png" width="72" alt="BrewPulse">
+      <img src="https://raw.githubusercontent.com/Tiny-Melo/.github/main/profile/assets/brewpulse.png" width="72" alt="BrewPulse">
     </td>
     <td>
       <b>BrewPulse</b> &nbsp;<code>Public Beta</code> <code>macOS</code><br>
@@ -84,7 +84,7 @@ Projects currently brewing, in active development, or in public beta:
   </tr>
   <tr>
     <td width="100" align="center" valign="middle">
-      <img src="assets/melloku.png" width="72" alt="Melloku">
+      <img src="https://raw.githubusercontent.com/Tiny-Melo/.github/main/profile/assets/melloku.png" width="72" alt="Melloku">
     </td>
     <td>
       <b>Melloku</b> &nbsp;<code>In Development</code> <code>iOS &amp; macOS</code><br>
@@ -93,7 +93,7 @@ Projects currently brewing, in active development, or in public beta:
   </tr>
   <tr>
     <td width="100" align="center" valign="middle">
-      <img src="assets/speakmelo.png" width="72" alt="Speakmelo">
+      <img src="https://raw.githubusercontent.com/Tiny-Melo/.github/main/profile/assets/speakmelo.png" width="72" alt="Speakmelo">
     </td>
     <td>
       <b>Speakmelo</b> &nbsp;<code>In Development</code> <code>macOS</code><br>
@@ -102,7 +102,7 @@ Projects currently brewing, in active development, or in public beta:
   </tr>
   <tr>
     <td width="100" align="center" valign="middle">
-      <img src="assets/dog-coral.png" width="72" alt="Tiny Melo Showcase">
+      <img src="https://raw.githubusercontent.com/Tiny-Melo/.github/main/profile/assets/dog-coral.png" width="72" alt="Tiny Melo Showcase">
     </td>
     <td>
       <b>Tiny Melo Showcase</b> &nbsp;<code>Open Source</code> <code>Astro &amp; Bun</code><br>
@@ -127,7 +127,7 @@ Projects currently brewing, in active development, or in public beta:
 <table>
   <tr>
     <td width="80" align="center">
-      <img src="assets/melo.jpg" width="68" style="border-radius: 50%;" alt="Melo">
+      <img src="https://raw.githubusercontent.com/Tiny-Melo/.github/main/profile/assets/melo.jpg" width="68" style="border-radius: 50%;" alt="Melo">
     </td>
     <td>
       <b>Christopher</b> — <i>Human / Engineering &amp; Design</i><br>
@@ -141,7 +141,7 @@ Projects currently brewing, in active development, or in public beta:
 ---
 
 <p align="center">
-  <img src="assets/dog-coral.png" width="36" alt="Melo"><br>
+  <img src="https://raw.githubusercontent.com/Tiny-Melo/.github/main/profile/assets/dog-coral.png" width="36" alt="Melo"><br>
   <sub>Crafted with care by Christopher &amp; Melo.</sub><br>
   <sub><a href="https://github.com/Tiny-Melo">Tiny Melo</a> • <a href="https://github.com/ChrisRodStar">@ChrisRodStar</a> • <a href="https://buymeacoffee.com/chrissinclair">Buy Me a Coffee</a></sub>
 </p>
